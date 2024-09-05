@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-hapus {
+    padding: 5px 8px;
+    background-color: rgb(198, 28, 28);
+    color: white;
+    border-radius: 5px;
+}
+
+.btn-edit {
+    padding: 5px 8px;
+    background-color: rgb(255, 203, 17);
+    color: black;
+    border-radius: 5px;
+}
